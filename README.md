@@ -17,7 +17,7 @@ Follow the discount emoji below:
 Don't forget to:
 - 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
 - 👉 ...bookmark this page to come back here next year 2024! 📆🤩
-- 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
+- 👉 ...[follow me on Twitter](https://x.com/liton_arefin) 😉
 
 ## Meet our sponsors
 
