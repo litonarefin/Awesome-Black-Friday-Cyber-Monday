@@ -159,6 +159,7 @@ Total deals: 540
 | 🤑 | [Joy](https://indiegoodies.com/joy) | Elevate your writing with ChatGPT/GPT-4. Available on Mac, iPhone, and iPad | 50% off lifetime on AppStore until November |
 | 🤑 | [MindMac](https://mindmac.app) | Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter and any local LLMs all in one place, designed for maximum productivity. | 55% OFF on all plans with code `BLACKFRIDAY` |
 | 🤑 | [AI4Chat](https://www.ai4chat.co/) | All your favorite chatbots under one roof. Merge the worlds of ChatGPT, GPT4, and Google Bard. | 50% off on AI4Chat's Unlimited plans |
+| 💰 |  [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18**  |
 
 
 
